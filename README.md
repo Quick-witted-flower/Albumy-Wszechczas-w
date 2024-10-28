@@ -40,4 +40,4 @@ Uruchomienie:
 
 Autor:
 
-  >Projekt realizowany jako zadanie edukacyjne.
+  >Stworzone przez @Quick-witted-flower – w razie pytań lub uwag zapraszam do kontaktu!
